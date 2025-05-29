@@ -1,1 +1,2 @@
 # Rest-API-isung-node.js-and-express.js
+First I have done the project set up using the command npm init then I have created the index.js files and alsp added express js using npm i express command. Then I have created a MOCK_DATA.json file where I have wriiten a dummy data to serve the data to the API. This mock data file will act as server. Then I have implemented get, post, put and delete request and tested the API in postman.
